@@ -18,8 +18,5 @@
     <ClCompile Include="holaMundo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="asd.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
